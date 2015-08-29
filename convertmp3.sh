@@ -1,4 +1,4 @@
-#!/bin/bash -x
+#!/bin/bash
 #
 # convertmp3.sh
 # thom o'connor
