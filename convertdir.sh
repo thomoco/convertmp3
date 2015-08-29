@@ -16,7 +16,7 @@ fi
 
 if [ ! -d "${WORKDIR}" ];
  then
- echo "$SRCDIR missing, exiting"
+ echo "$WORKDIR missing, exiting"
  exit 1
 fi
 
